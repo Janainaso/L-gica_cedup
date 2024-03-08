@@ -1,1 +1,13 @@
 2) S = (D v A ^ C) v ~(B v C)
+   S = ( V v F ^ F) v ~(F v V)
+   S = V v F ^ F ) v~ F( F v V)
+   S = F 
+3) S = ~(A v B)
+   S = (F v V) 
+   S = F
+4) S = ~(A ^ B)
+   S = ( F ^ V) 
+   S = F
+5) S = C v ~B ^ (A v ~D)
+   S = V v F ^ ( V v ~F)
+   S = V
